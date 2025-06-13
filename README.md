@@ -1,0 +1,4 @@
+# Reflection
+1. Using Figma made it much easier as I didn't have to think about design. The project had visual representation, which also helped me figure out faster the containers needed and the overall structure.
+2. The challenge I've encountered was aligning items in the containers: I would try aligning items in one, but then figure out I was supposed to be aligning another. Also the fonts were similar and I spent quite a big amount of time mixing them up. I'm not sure whether we were supposed to use the :focus element because I've tried adding it instead of :hover and I didn't work out. I guess I need to read more on the types of elements you could add those states to.
+3. I haven't tried feedback and community resources to be honest, but I've found the challenges to be very interesting and wish I have more time to continue with them. As well as check community examples.
